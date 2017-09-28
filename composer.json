@@ -1,0 +1,13 @@
+{
+    "name": "sni/scanshare",
+    "description": "Schneider Scanshare and Document Storage",
+    "type": "package",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "SNI\\ScanShare\\": "ScanShare"
+        }
+    }
+}
