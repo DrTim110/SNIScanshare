@@ -10,5 +10,12 @@
         "psr-4": {
             "SNI\\ScanShare\\": "ScanShare/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SNI\\Scanshare\\ServiceProvider"
+            ]
+        }
     }
 }

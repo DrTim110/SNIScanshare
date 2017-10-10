@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace SNI\Scanshare;
 
 use Illuminate\Support\ServiceProvider;
 
