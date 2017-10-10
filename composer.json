@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SNI\\Scanshare\\ServiceProvider"
+                "SNI\\Scanshare\\ScanshareProvider"
             ]
         }
     }
