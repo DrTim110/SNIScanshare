@@ -2,6 +2,7 @@
     "name": "sni/scanshare",
     "description": "Schneider Scanshare and Document Storage",
     "type": "package",
+    "version": "dev",
     "minimum-stability": "dev",
     "require": {
     },
