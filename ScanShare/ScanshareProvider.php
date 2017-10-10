@@ -4,7 +4,7 @@ namespace SNI\Scanshare;
 
 use Illuminate\Support\ServiceProvider;
 
-class ScanShareProvider extends ServiceProvider
+class ScanshareProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
